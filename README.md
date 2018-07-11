@@ -1,2 +1,3 @@
-# ios-utilities
-iOS extensions and utilities
+# JCYIOSUtils
+iOS utilities and extensions. Testing CocoaPods
+
