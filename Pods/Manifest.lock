@@ -1,0 +1,30 @@
+PODS:
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
+  - Swinject (2.4.1)
+  - SwinjectStoryboard (2.0.1):
+    - Swinject (~> 2.4)
+
+DEPENDENCIES:
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - Swinject
+  - SwinjectStoryboard
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RxCocoa
+    - RxSwift
+    - Swinject
+    - SwinjectStoryboard
+
+SPEC CHECKSUMS:
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+  Swinject: f7f15a9672e99328c1f07f277091087917215700
+  SwinjectStoryboard: ad2529218a1504cc888040ee56c13d7cb1cc7998
+
+PODFILE CHECKSUM: 4247322a8b3b0baa0d0b839f916c5eb0103773de
+
+COCOAPODS: 1.5.3
