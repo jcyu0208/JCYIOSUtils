@@ -27,6 +27,12 @@ public struct ToolbarButton {
     var target: Any
     var action: Selector
     var title: String
+    
+    public init(target: Any, action: Selector, title: String) {
+        self.target = target
+        self.action = action
+        self.title = title
+    }
 }
 /// Creates a toolbar for the UITextField
 extension UITextField {
